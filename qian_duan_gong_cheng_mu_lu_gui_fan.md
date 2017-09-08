@@ -1,0 +1,65 @@
+# 前端工程目录规范
+
+<table>
+   <tr>
+      <td>一级目录</td>
+      <td>二级目录</td>
+      <td>三级目录</td>
+      <td>说明</td>
+   </tr>
+   <tr>
+      <td>config</td>
+      <td></td>
+      <td></td>
+      <td>配置文件目录</td>
+   </tr>
+   <tr>
+      <td>docs</td>
+      <td></td>
+      <td></td>
+      <td>文档</td>
+   </tr>
+   <tr>
+      <td>dist</td>
+      <td></td>
+      <td></td>
+      <td>编译后文件目录</td>
+   </tr>
+   <tr>
+      <td>mockData</td>
+      <td></td>
+      <td></td>
+      <td>数据模拟</td>
+   </tr>
+   <tr>
+      <td>src</td>
+      <td>component 组件</td>
+      <td></td>
+      <td>组件</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>styles</td>
+      <td></td>
+      <td>公共样式</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>static</td>
+      <td></td>
+      <td>静态资源(图片、视频等)</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>pages</td>
+      <td></td>
+      <td>功能页面</td>
+   </tr>
+   <tr>
+      <td>vendor</td>
+      <td></td>
+      <td></td>
+      <td>第三方库</td>
+   </tr>
+</table>
+

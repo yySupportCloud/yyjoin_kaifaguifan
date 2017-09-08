@@ -1,0 +1,66 @@
+# 后端工程目录规范
+
+<table>
+   <tr>
+      <td>目录结构</td>
+      <td>描述</td>
+   </tr>
+   <tr>
+      <td>src/main/java</td>
+      <td>工程的java源码文件</td>
+   </tr>
+   <tr>
+      <td>src/main/resources</td>
+      <td>源码资源文件，比如：配置文件、多语资源文件等</td>
+   </tr>
+   <tr>
+      <td>src/main/filters</td>
+      <td>过滤器资源目录，解决多套环境开发配置问题</td>
+   </tr>
+   <tr>
+      <td>src/main/webapp</td>
+      <td>web资源目录，与最终生成的war包结构一致</td>
+   </tr>
+   <tr>
+      <td>src/main/metadata</td>
+      <td>iUAP元数据资源文件</td>
+   </tr>
+   <tr>
+      <td>src/test/java</td>
+      <td>测试用例的源码文件</td>
+   </tr>
+   <tr>
+      <td>src/test/resources</td>
+      <td>测试用例的资源文件</td>
+   </tr>
+   <tr>
+      <td>src/test/filters</td>
+      <td>测试用例的过滤器</td>
+   </tr>
+   <tr>
+      <td>src/it</td>
+      <td>集成测试代码所在的目录，主要是供别的插件使用</td>
+   </tr>
+   <tr>
+      <td>src/assembly</td>
+      <td>组件（Assembly）描述符所在的目录</td>
+   </tr>
+   <tr>
+      <td>src/site</td>
+      <td>站点文件</td>
+   </tr>
+   <tr>
+      <td>LICENSE.txt</td>
+      <td>项目的许可文件</td>
+   </tr>
+   <tr>
+      <td>NOTICE.txt</td>
+      <td>该项目依赖的库的注意事项</td>
+   </tr>
+   <tr>
+      <td>README.txt</td>
+      <td>项目的readme文件</td>
+   </tr>
+</table>
+
+工程统一采用UTF-8编码，配置文件、属性配置文件统一采用UTF-8编码。
