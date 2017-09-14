@@ -6,5 +6,5 @@
 
 iuap-log组件默认引入slf4j、logback和各种桥接包对应的依赖，依赖关系如下：
 
-![](kaifaguifan-7.png)
+![](images/kaifaguifan-7.png)
 
