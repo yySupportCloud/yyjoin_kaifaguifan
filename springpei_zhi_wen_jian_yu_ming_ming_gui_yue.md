@@ -6,6 +6,6 @@
 2：spring配置文件命名格式为applicationContext-abc.xml；  
 3：各个模块的spring配置文件在web.xml中引入或者在spring主配置文件applicationContext.xml中import；
 
-![](kaifaguifan-1.png)
+![](images/kaifaguifan-1.png)
 
 
